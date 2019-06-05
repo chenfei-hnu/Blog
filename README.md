@@ -7,4 +7,4 @@
 * [前端相关的一些有用的网址](https://github.com/RayProjects/blog/issues/1)
 * [Git项目上传及GitHub Markdown编辑](https://github.com/RayProjects/blog/issues/2)
 * [Ionic 混合APP开发从项目构建到发布](https://github.com/RayProjects/blog/issues/3)
-* [VS Code 设置TSLint插件](https://github.com/RayProjects/blog/issues/4)
+* [VS Code 设置TSLint 插件](https://github.com/RayProjects/blog/issues/4)
