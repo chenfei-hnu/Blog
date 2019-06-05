@@ -5,6 +5,6 @@
 
 ##### 目录
 * [前端相关的一些有用的网址](https://github.com/RayProjects/blog/issues/1)
-* [通过Git将项目上传到GitHub](https://github.com/RayProjects/blog/issues/2)
-* [Ionic 混合APP开发](https://github.com/RayProjects/blog/issues/3)
+* [Git项目上传及GitHub Markdown编辑](https://github.com/RayProjects/blog/issues/2)
+* [Ionic 混合APP开发从项目构建到发布](https://github.com/RayProjects/blog/issues/3)
 * [VS Code 设置TSLint插件](https://github.com/RayProjects/blog/issues/4)
