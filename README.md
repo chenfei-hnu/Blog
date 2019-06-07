@@ -1,6 +1,6 @@
 ### 个人博客 - Personal Blog
 
-> 个人整理的跟前端相关的文档
+> 个人整理的跟前端相关的文档和示例
 > This is some front-end development related documentation.
 
 ##### 目录
@@ -14,6 +14,6 @@
 ————————————————
 
 * [Webpack学习示例及总结](https://github.com/RayProjects/webpack-learning-demo)
-* [Ionic项目示例](https://github.com/RayProjects/VoiceTrain)
+* [Ionic Web App项目示例](https://github.com/RayProjects/VoiceTrain)
 * [three.js 3D场景模型的示例](https://github.com/RayProjects/3d-learning-demo)
 * [three.js 3D粒子效果](https://github.com/RayProjects/3d-particle-scene)
