@@ -10,6 +10,9 @@
 * [Ionic 混合APP开发从项目构建到发布](https://github.com/RayProjects/blog/issues/3)
 * [VS Code 设置 TSLint 插件](https://github.com/RayProjects/blog/issues/4)
 * [项目经历](https://github.com/RayProjects/blog/issues/5)
+* [ES6 箭头函数及 Promise](https://github.com/RayProjects/Blog/issues/6)
+* [ES6 Iterator遍历器，Generator 函数及 async 函数](https://github.com/RayProjects/blog/issues/7)
+
 
 ————————————————
 
