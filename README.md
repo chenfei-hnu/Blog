@@ -12,12 +12,13 @@
 * [项目经历](https://github.com/RayProjects/blog/issues/5)
 * [ES6 箭头函数及 Promise](https://github.com/RayProjects/Blog/issues/6)
 * [ES6 Iterator遍历器，Generator 函数及 async 函数](https://github.com/RayProjects/blog/issues/7)
+* [ES6 的其他语法](https://github.com/RayProjects/blog/issues/8)
 
 
 ————————————————
 
-* [Webpack学习示例及总结](https://github.com/RayProjects/webpack-learning-demo)
+* [Webpack 学习示例及总结](https://github.com/RayProjects/webpack-learning-demo)
 * [Ionic Web APP项目示例](https://github.com/RayProjects/VoiceTrain)
 * [three.js 3D场景模型的示例](https://github.com/RayProjects/3d-learning-demo)
 * [three.js 3D粒子效果](https://github.com/RayProjects/3d-particle-scene)
-* [Nodejs前后端分离学习示例及总结](https://github.com/RayProjects/nodejs-learning-demo)
+* [Nodejs 前后端分离学习示例及总结](https://github.com/RayProjects/nodejs-learning-demo)
