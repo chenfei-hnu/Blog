@@ -15,6 +15,7 @@
 * [ES6 的其他语法](https://github.com/RayProjects/blog/issues/8)
 * [前端性能优化措施](https://github.com/RayProjects/Blog/issues/9)
 * [交换机面板展示性能优化方案](https://github.com/RayProjects/blog/issues/10)
+* [继承，原型链和闭包](https://github.com/RayProjects/blog/issues/11)
 
 
 ————————————————
