@@ -17,6 +17,7 @@
 * [交换机面板展示性能优化方案](https://github.com/RayProjects/blog/issues/10)
 * [继承，原型链和闭包](https://github.com/RayProjects/blog/issues/11)
 * [前端缓存策略](https://github.com/RayProjects/blog/issues/12)
+* [Object Aarry String Math Set/Map的常用接口](https://github.com/RayProjects/blog/issues/13)
 
 
 ————————————————
