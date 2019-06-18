@@ -22,7 +22,7 @@
 * [Webpack学习总结](https://github.com/RayProjects/blog/issues/15)
 * [常用基础算法](https://github.com/RayProjects/blog/issues/16)
 * [前端其他知识总结](https://github.com/RayProjects/blog/issues/17)
-* [Web安全总结](https://github.com/RayProjects/blog/issues/17)
+* [Web安全总结](https://github.com/RayProjects/blog/issues/19)
 
 ————————————————
 
