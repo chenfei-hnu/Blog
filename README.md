@@ -18,7 +18,8 @@
 * [React 学习总结](https://github.com/RayProjects/blog/issues/21)
 * [Vue3.0新特性学习总结](https://github.com/introfei/Blog/issues/26)
 * [Serverless学习总结](https://github.com/introfei/Blog/issues/25)
---------------
+
+————————————————
 * [ES6 箭头函数及 Promise](https://github.com/RayProjects/Blog/issues/6)
 * [ES6 Iterator遍历器，Generator 函数及 async 函数](https://github.com/RayProjects/blog/issues/7)
 * [ES6 的其他语法](https://github.com/RayProjects/blog/issues/8)
