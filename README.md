@@ -14,6 +14,7 @@
 * [Three.js学习总结](https://github.com/RayProjects/blog/issues/14)
 * [Webpack学习总结](https://github.com/RayProjects/blog/issues/15)
 * [React 学习总结](https://github.com/RayProjects/blog/issues/21)
+* [V 学习总结](https://github.com/RayProjects/blog/issues/29)
 * [Vue3.0新特性学习总结](https://github.com/introfei/Blog/issues/26)
 * [Vue 和 React 的区别](https://github.com/introfei/Blog/issues/28)
 * [Serverless学习总结](https://github.com/introfei/Blog/issues/25)
