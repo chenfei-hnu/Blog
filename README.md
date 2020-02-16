@@ -33,8 +33,8 @@
 * [Web安全总结](https://github.com/RayProjects/blog/issues/19)
 * [继承，原型链，闭包和执行上下文](https://github.com/RayProjects/blog/issues/11)
 * [常用基础算法](https://github.com/RayProjects/blog/issues/16)
-* [前端其他知识总结](https://github.com/introfei/Blog/issues/34)
-* [GraphQL](https://github.com/RayProjects/blog/issues/17)
+* [前端其他知识总结](https://github.com/introfei/Blog/issues/17)
+* [GraphQL](https://github.com/RayProjects/blog/issues/34)
 
 
 ————————————————
