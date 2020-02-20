@@ -7,22 +7,6 @@
 
 * [前端入门知识](https://github.com/RayProjects/blog/issues/27)
 * [前端相关的一些有用的网址](https://github.com/RayProjects/blog/issues/1)
-* [Git项目上传及GitHub Markdown编辑](https://github.com/RayProjects/blog/issues/2)
-* [Ionic 混合APP开发从项目构建到发布](https://github.com/RayProjects/blog/issues/3)
-* [VS Code 设置 TSLint 插件](https://github.com/RayProjects/blog/issues/4)
-
-* [Three.js学习总结](https://github.com/RayProjects/blog/issues/14)
-* [Webpack学习总结](https://github.com/RayProjects/blog/issues/15)
-* [React 学习总结](https://github.com/RayProjects/blog/issues/21)
-* [React 新特性学习总结](https://github.com/RayProjects/blog/issues/30)
-
-* [Vue 学习总结](https://github.com/RayProjects/blog/issues/29)
-* [Vue 新特性学习总结](https://github.com/introfei/Blog/issues/26)
-* [Vue 和 React 的区别](https://github.com/introfei/Blog/issues/28)
-
-
-
-————————————————
 
 * [ES6 箭头函数及 Promise](https://github.com/RayProjects/Blog/issues/6)
 * [ES6 Iterator遍历器，Generator 函数及 async 函数](https://github.com/RayProjects/blog/issues/7)
@@ -41,7 +25,12 @@
 * [进程线程与事件循环](https://github.com/introfei/Blog/issues/39)
 * [DNS劫持与防治](https://github.com/introfei/Blog/issues/37)
 * [前端其他知识总结](https://github.com/introfei/Blog/issues/17)
-
+* [Webpack学习总结](https://github.com/RayProjects/blog/issues/15)
+* [React 学习总结](https://github.com/RayProjects/blog/issues/21)
+* [React 新特性学习总结](https://github.com/RayProjects/blog/issues/30)
+* [Vue 学习总结](https://github.com/RayProjects/blog/issues/29)
+* [Vue 新特性学习总结](https://github.com/introfei/Blog/issues/26)
+* [Vue 和 React 的区别](https://github.com/introfei/Blog/issues/28)
 
 
 ————————————————
@@ -50,7 +39,10 @@
 * [使用ES6+Typescript+Webpack重构认证页面](https://github.com/RayProjects/blog/issues/22)
 * [交换机面板展示性能优化方案](https://github.com/RayProjects/blog/issues/10)
 * [人脸识别APP方案总结](https://github.com/RayProjects/blog/issues/20)
-
+* [Git项目上传及GitHub Markdown编辑](https://github.com/RayProjects/blog/issues/2)
+* [Ionic 混合APP开发从项目构建到发布](https://github.com/RayProjects/blog/issues/3)
+* [VS Code 设置 TSLint 插件](https://github.com/RayProjects/blog/issues/4)
+* [Three.js学习总结](https://github.com/RayProjects/blog/issues/14)
 
 ————————————————
 
