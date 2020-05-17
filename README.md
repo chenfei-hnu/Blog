@@ -25,7 +25,7 @@
 * [DNS劫持与防治](https://github.com/introfei/Blog/issues/37)
 * [Webpack学习总结](https://github.com/RayProjects/blog/issues/15)
 * [React 学习总结](https://github.com/RayProjects/blog/issues/21)
-* [React 新特性学习总结](https://github.com/RayProjects/blog/issues/30)
+* [React Hook](https://github.com/RayProjects/blog/issues/30)
 * [Vue 学习总结](https://github.com/RayProjects/blog/issues/29)
 * [Vue 新特性学习总结](https://github.com/introfei/Blog/issues/26)
 * [Vue 和 React 的区别](https://github.com/introfei/Blog/issues/28)
