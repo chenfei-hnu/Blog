@@ -29,12 +29,14 @@
 * [Vue 学习总结](https://github.com/RayProjects/blog/issues/29)
 * [Vue 新特性学习总结](https://github.com/introfei/Blog/issues/26)
 * [Vue 和 React 的区别](https://github.com/introfei/Blog/issues/28)
-* [前端其他知识总结](https://github.com/introfei/Blog/issues/17)
 * [代码简洁优化技巧](https://github.com/introfei/Blog/issues/46)
+* [前端工具库](https://github.com/introfei/Blog/issues/47)
+* [前端其他知识总结](https://github.com/introfei/Blog/issues/17)
+
 
 ————————————————
 
-* [Webpack 学习示例及总结](https://github.com/RayProjects/webpack-learning-demo)
+* [Webpack 学习实例及总结](https://github.com/RayProjects/webpack-learning-demo)
 * [Ionic Web APP项目示例](https://github.com/RayProjects/VoiceTrain)
 * [three.js 3D场景模型的示例](https://github.com/RayProjects/3d-learning-demo)
 * [three.js 3D粒子效果](https://github.com/RayProjects/3d-particle-scene)
