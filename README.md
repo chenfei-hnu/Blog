@@ -30,7 +30,7 @@
 * [Vue 新特性学习总结](https://github.com/introfei/Blog/issues/26)
 * [Vue 和 React 的区别](https://github.com/introfei/Blog/issues/28)
 * [代码简洁优化技巧](https://github.com/introfei/Blog/issues/46)
-* [前端工具库](https://github.com/introfei/Blog/issues/47)
+* [前端工具库及webpack babel配置](https://github.com/introfei/Blog/issues/47)
 * [前端其他知识总结](https://github.com/introfei/Blog/issues/17)
 
 
