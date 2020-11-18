@@ -6,7 +6,7 @@
 ##### 目录
 
 * [前端入门知识](https://github.com/RayProjects/blog/issues/27)
-* [前端相关的一些有用的网址](https://github.com/RayProjects/blog/issues/1)
+* [优秀技术贴收集](https://github.com/RayProjects/blog/issues/52)
 
 * [ES6 箭头函数及 Promise](https://github.com/RayProjects/Blog/issues/6)
 * [ES6 Iterator遍历器，Generator 函数及 async 函数](https://github.com/RayProjects/blog/issues/7)
