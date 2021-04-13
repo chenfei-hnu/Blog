@@ -26,6 +26,7 @@
 * [进程线程与事件循环](https://github.com/introfei/Blog/issues/39)
 * [DNS劫持与防治](https://github.com/introfei/Blog/issues/37)
 * [Webpack学习总结](https://github.com/RayProjects/blog/issues/15)
+* [Vite 学习总结](https://github.com/RayProjects/blog/issues/56)
 * [React 学习总结](https://github.com/RayProjects/blog/issues/21)
 * [React Hook](https://github.com/RayProjects/blog/issues/30)
 * [Vue 学习总结](https://github.com/RayProjects/blog/issues/29)
