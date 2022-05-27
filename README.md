@@ -38,6 +38,7 @@
 * [使用Docker部署前端](https://github.com/introfei/Blog/issues/63)
 * [前端监控](https://github.com/introfei/Blog/issues/61)
 * [SSO远程登录解决方案](https://github.com/introfei/Blog/issues/60)
+* [VSCode 插件](https://github.com/introfei/Blog/issues/64)
 * [前端其他知识总结](https://github.com/introfei/Blog/issues/17)
 
 
